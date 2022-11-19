@@ -4,6 +4,9 @@
 
 **Developer Team**: Dishant Beniwal([d-beniwal](https://github.com/d-beniwal))
 
+**Organization Pages**:
+- [IDEAsLab-Materials-Informatics](https://github.com/IDEAsLab-Materials-Informatics)
+
 <!--
 **IDEAsLab-admin/IDEAsLab-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
