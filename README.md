@@ -1,7 +1,8 @@
 ### [Interface Dynamics and Energetics of Alloys (IDEAs) Lab](https://ideaslab.iitrpr.ac.in/), IIT Ropar
 
-### **Group Leader**: Dr. Pratik K. Ray
-### **Developer Team**: Dishant Beniwal([d-beniwal](https://github.com/d-beniwal))
+**Group Leader**: Dr. Pratik K. Ray
+
+**Developer Team**: Dishant Beniwal([d-beniwal](https://github.com/d-beniwal))
 
 <!--
 **IDEAsLab-admin/IDEAsLab-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
