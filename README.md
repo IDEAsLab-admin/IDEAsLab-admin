@@ -4,8 +4,10 @@
 
 **Developer Team**: Dishant Beniwal([d-beniwal](https://github.com/d-beniwal))
 
+Codes developed at IDEAs Lab are released on following organization pages based on the application areas:
+
 **Organization Pages**:
-- [IDEAsLab-Materials-Informatics](https://github.com/IDEAsLab-Materials-Informatics)
+- [IDEAsLab-Materials-Informatics](https://github.com/IDEAsLab-Materials-Informatics): Machine learning, Interpretation frameworks, Data-driven mathematical models, Symbolic regression
 
 <!--
 **IDEAsLab-admin/IDEAsLab-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
