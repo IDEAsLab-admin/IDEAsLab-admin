@@ -4,9 +4,9 @@
 
 **Developer Team**: Dishant Beniwal ([d-beniwal](https://github.com/d-beniwal))
 
-Codes developed at IDEAs Lab are released on following organization pages based on the application areas:
-
 **Organization Pages**:
+
+Codes developed at IDEAs Lab are released on following organization pages based on the application areas:
 - [IDEAsLab-Materials-Informatics](https://github.com/IDEAsLab-Materials-Informatics): Machine learning, Interpretation frameworks, Data-driven mathematical models, Symbolic regression
 
 <!--
