@@ -2,7 +2,7 @@
 
 **Group Leader**: Dr. Pratik K. Ray
 
-**Developer Team**: Dishant Beniwal([d-beniwal](https://github.com/d-beniwal))
+**Developer Team**: Dishant Beniwal ([d-beniwal](https://github.com/d-beniwal))
 
 Codes developed at IDEAs Lab are released on following organization pages based on the application areas:
 
