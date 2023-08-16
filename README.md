@@ -8,6 +8,7 @@
 
 Codes developed at IDEAs Lab are released on following organization pages based on the application areas:
 - [IDEAsLab-Materials-Informatics](https://github.com/IDEAsLab-Materials-Informatics): Machine learning, Interpretation frameworks, Data-driven mathematical models, Symbolic regression
+- [IDEAsLab-Computational-Microstructure](https://github.com/IDEAsLab-Computational-Microstructure): Phase segmentation and analysis, Processing SEM-EDS data for quantitative insights, Microstructure reconstruction, Image Processing
 
 <!--
 **IDEAsLab-admin/IDEAsLab-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
