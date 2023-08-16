@@ -1,8 +1,8 @@
 ## [Interface Dynamics and Energetics of Alloys (IDEAs) Lab](https://ideaslab.iitrpr.ac.in/), IIT Ropar
 
-**Group Leader**: Dr. Pratik K. Ray
+**Group Leader** : Dr. Pratik K. Ray ([Webpage](https://sites.google.com/iitrpr.ac.in/pratik-ray))
 
-**Developer Team**: Dishant Beniwal ([d-beniwal](https://github.com/d-beniwal))
+**Developer Team** : Dishant Beniwal ([Github](https://github.com/d-beniwal), [Webpage](https://sites.google.com/view/dishant-beniwal))
 
 ### **Organization Pages**:
 
